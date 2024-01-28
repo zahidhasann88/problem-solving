@@ -1,6 +1,6 @@
 # Problem-Solving Repository
 
-This repository is dedicated to problem-solving using C#, Python, and TypeScript, primarily focusing on Data Structures and Algorithms (DSA). It serves as a learning journey while solving problems from platforms like LeetCode, HackerRank, and Codeforces.
+This repository is a practice in DSA (Data Structures and Algorithms) for problem-solving using C#, Python, and TypeScript. It primarily focuses on Data Structures and Algorithms (DSA) and serves as a learning journey while solving problems from platforms like LeetCode, HackerRank, and Codeforces.
 
 ## Overview
 
